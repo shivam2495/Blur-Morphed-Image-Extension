@@ -1,0 +1,4 @@
+-Chrome extension to blur out morphed images.
+-Might not work as the reqs are being posted to grace framework (nicheai team) and the url might change.
+-Move the app.py, cert and key to new dir as the imgs will be saved in the same dir as them.
+-Run app.py, load the extension in chrome and click the icon. Use console to debug.
